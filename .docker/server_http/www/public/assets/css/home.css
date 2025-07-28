@@ -20,3 +20,10 @@ header h1 {
   max-width: 60px;
   margin-bottom: 15px;
 }
+
+footer {
+  background: #595A5A;
+  color: white;
+  text-align:center;
+  padding: 20px;
+}
